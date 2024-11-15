@@ -28,16 +28,14 @@ import React from "react";
 
 const Footer = (props) => {
   const {
-    devDotTo,
+    
     email,
     gitHub,
     instagram,
-    linkedIn,
-    medium,
+    
     name,
     primaryColor,
-    twitter,
-    youTube,
+    
   } = props;
 
   return (

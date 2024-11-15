@@ -1,40 +1,11 @@
-// import React from 'react';
 
-// const Projects = () => {
-//   return (
-//     <section id="projects">
-//       <h2>Projects</h2>
-//       <ul>
-//         <li>Project 1: Awesome Web App</li>
-//         <li>Project 2: Another Cool Project</li>
-//         <li>Project 3: My Portfolio Website</li>
-//       </ul>
-//     </section>
-//   );
-// };
-
-// export default Projects;
 import React from "react";
 
-/**
- * Desk image
- *
- * Below is a sample desk image. Feel free to update this to an image of your choice,
- * updating below imageAltText to string that represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a photo you
- * freely use on your site.
- */
  import image from "../images/design-book-table.jpeg";
 
  const imageAltText = "desktop with books and laptop";
 
-/**
- * Project list
- *
- * An array of objects that will be used to display for your project
- * links section. Below is a sample, update to reflect links you'd like to highlight.
- */
+
 const projectList = [
   {
     title: "Travel Website",
