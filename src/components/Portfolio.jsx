@@ -10,7 +10,7 @@ const projectList = [
   {
     title: "Travel Website",
     description:
-      "A user-friendly website HTML,CSS,Java Script for Froentend part and Node, Express for Backend Part and MongoDb for Database.. ",
+      "A  FULL-STACK ,user-friendly website HTML,CSS,Java Script for Froentend part and Node, Express for Backend Part and MongoDb for Database.. ",
     url: "https://github.com/santhakur123/Travel-Website",
   },
   {
@@ -22,8 +22,14 @@ const projectList = [
   {
     title: "E-commerce website",
     description:
-      "A e-commerce type website using React,Tailwind Css for the froentend portion and Node, Express for Backend and MongoDb for the Database i am currently working on more features for this website",
+      "A  MERN-Stack  e-commerce type website using React,Tailwind Css for the froentend portion and Node, Express for Backend and MongoDb for the Database i am currently working on more features for this website",
     url: "https://github.com/santhakur123/e-commerceapp",
+  },
+  {
+    title: "Work list app",
+    description:
+      "A work list app using React js and with all the features of like delete,with priority to the tasks and many other features",
+    url: "https://github.com/santhakur123/worklistapp",
   },
   
 ];

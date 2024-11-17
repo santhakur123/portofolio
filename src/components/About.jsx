@@ -13,7 +13,8 @@ const description =
 const skillsList = [
   "Full-stack Developer",
   "MERN stack developer",
-  "Languages - C++,C,Java",
+  "Skills - C++,C,Java",
+  "MYSQL,PHP,EJS "
   
 ];
 

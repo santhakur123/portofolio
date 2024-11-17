@@ -14,9 +14,9 @@ import React from "react";
 
 
 // import devDotToIcon from "../images/socials/devdotto.svg";
- import envelopeIcon from "../images/socials/envelope.png";
- import gitHubIcon from "../images/socials/github.png";
- import instagramIcon from "../images/socials/Instagram.png";
+ import envelopeIcon from "../images/socials/envelope.svg";
+ import gitHubIcon from "../images/socials/github2.svg";
+ import instagramIcon from "../images/socials/Instagram2.svg";
 
 
 /**
