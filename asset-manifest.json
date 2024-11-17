@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.feba728d.css",
-    "main.js": "/portofolio/static/js/main.66fe596b.js",
+    "main.css": "/portofolio/static/css/main.c72708fc.css",
+    "main.js": "/portofolio/static/js/main.498db452.js",
     "static/js/453.6a54098e.chunk.js": "/portofolio/static/js/453.6a54098e.chunk.js",
     "static/media/design-book-table.jpeg": "/portofolio/static/media/design-book-table.e24386a64447fab66382.jpeg",
     "static/media/a-man -with-latop.jpg": "/portofolio/static/media/a-man -with-latop.38d7d2b11fbf9934868d.jpg",
-    "static/media/Instagram.png": "/portofolio/static/media/Instagram.05fc4a80df32e796a401.png",
-    "static/media/github.png": "/portofolio/static/media/github.76c41f41ea7363196acd.png",
     "static/media/motion-background.jpg": "/portofolio/static/media/motion-background.162019996b695dde089a.jpg",
-    "static/media/envelope.png": "/portofolio/static/media/envelope.376c68c9be262633c62e.png",
+    "static/media/Instagram2.svg": "/portofolio/static/media/Instagram2.22bda4c250235f5d99c5c75e2537147e.svg",
+    "static/media/github2.svg": "/portofolio/static/media/github2.23ea278799c15865c3725bb9de03a476.svg",
     "index.html": "/portofolio/index.html",
-    "main.feba728d.css.map": "/portofolio/static/css/main.feba728d.css.map",
-    "main.66fe596b.js.map": "/portofolio/static/js/main.66fe596b.js.map",
+    "static/media/envelope.svg": "/portofolio/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "main.c72708fc.css.map": "/portofolio/static/css/main.c72708fc.css.map",
+    "main.498db452.js.map": "/portofolio/static/js/main.498db452.js.map",
     "453.6a54098e.chunk.js.map": "/portofolio/static/js/453.6a54098e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.feba728d.css",
-    "static/js/main.66fe596b.js"
+    "static/css/main.c72708fc.css",
+    "static/js/main.498db452.js"
   ]
 }
